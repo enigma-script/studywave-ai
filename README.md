@@ -1,5 +1,8 @@
-StudyWave: AI-Powered Study OS for Desi Dreamers
 [![OpenAI x NxtWave Buildathon](https://img.shields.io/badge/Buildathon-StudyWave-blue)](https://openai-buildathon.nxtwave.tech)
+
+StudyWave: AI-Powered Study OS for Desi Dreamers
+
+
 Welcome to StudyWave, an AI-driven study ecosystem designed to transform the academic journey for India's 40M university students (and beyond!). Built by Khadeejah Shaikh, a 3rd-year B.E. IT student, this project tackles uni burnout, procrastination, and fragmented learning with personalized, multimodal tools. Inspired by the OpenAI x NxtWave Buildathon, it’s my solo MVP—open for co-creation with peers, alumni, and the next gen!
 
 🚀 Project Overview
